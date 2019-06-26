@@ -1,0 +1,25 @@
+{
+	"name": "azulis-theme",
+	"displayName": "Azulis",
+	"description": "A colorful high-contrast theme",
+	"version": "0.0.5",
+	"publisher": "lbitar",
+	"repository": "https://github.com/luanbitar/azulis-vscode-theme",
+	"icon": "azulis.png",
+	"engines": {
+		"vscode": "^0.10.5"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Azulis",
+				"uiTheme": "hc-black",
+				"path": "./themes/Azulis-color-theme.json"
+			}
+		]
+	}
+}

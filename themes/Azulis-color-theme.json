@@ -1,5 +1,5 @@
 {
-	"name": "Santana",
+	"name": "azulis-theme",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#000014",
@@ -29,7 +29,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#a7fce7"
 			}
 		},
 		{
@@ -103,7 +103,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#4ca7e4"
 			}
 		},
 		{
@@ -112,7 +112,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#fc5c65"
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ff7a7a"
 			}
 		},
 		{
@@ -153,7 +153,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#8dcbe8"
 			}
 		},
 		{
@@ -192,7 +192,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#07fff3"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#bdea92"
 			}
 		},
 		{
@@ -262,7 +262,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffb950"
 			}
 		},
 		{
@@ -271,7 +271,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#4aee80"
 			}
 		},
 		{

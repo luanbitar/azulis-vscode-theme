@@ -2,7 +2,7 @@
 	"name": "azulis-theme",
 	"displayName": "Azulis",
 	"description": "A colorful high-contrast theme",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "lbitar",
 	"repository": "https://github.com/luanbitar/azulis-vscode-theme",
 	"icon": "azulis.png",
